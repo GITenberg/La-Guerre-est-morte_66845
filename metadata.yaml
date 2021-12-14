@@ -1,0 +1,24 @@
+_repo: La-Guerre-est-morte_66845
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wegener, Gerda
+    gutenberg_agent_id: '53986'
+    url: http://www.gutenberg.org/2009/agents/53986
+creator:
+  author:
+    agent_name: Delluc, Louis
+    gutenberg_agent_id: '53985'
+    url: http://www.gutenberg.org/2009/agents/53985
+description: ''
+gutenberg_issued: '2021-11-29'
+identifiers:
+  gutenberg: '66845'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Guerre est morte
+url: http://www.gutenberg.org/ebooks/66845
