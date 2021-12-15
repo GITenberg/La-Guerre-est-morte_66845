@@ -5,12 +5,17 @@ contributor:
     agent_name: Wegener, Gerda
     gutenberg_agent_id: '53986'
     url: http://www.gutenberg.org/2009/agents/53986
+covers:
+- cover_type: archival
+  image_path: 66845-h/images/cover.jpg
 creator:
   author:
     agent_name: Delluc, Louis
     gutenberg_agent_id: '53985'
     url: http://www.gutenberg.org/2009/agents/53985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66845#La-Guerre-est-morte
 gutenberg_issued: '2021-11-29'
 identifiers:
   gutenberg: '66845'
